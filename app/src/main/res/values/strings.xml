@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="forget_password">  🔒 Forget Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sing_up">SING UP</string>
+</resources>
